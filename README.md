@@ -26,10 +26,25 @@ Email Me 👉 ✉️ **ateequr9898@gmail.com** For Collaboration/Project or Anyt
 
 
 
-# 📊 GitHub Stats:
+### 📈 GitHub Stats
 
-![](https://streak-stats.demolab.com/?user=Ateeq1211&theme=dark&hide_border=false)<br/>
+<p align="start">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ateeq1211&show_icons=true&theme=tokyonight" />
+  
+</p>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=technosnag&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+---
+
+### 📫 Connect With Me
+
+<p>
+  <a href="mailto:ateequr9898@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="[https://linkedin.com/in/hamad-ali-07-dot-dev](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ateeq-ur-rehman-54830433b?utm_source=share_via&utm_content=profile&utm_medium=member_android)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Ateeq1211"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"></a>
+</p>
 
 
 
