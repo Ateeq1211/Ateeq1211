@@ -29,9 +29,9 @@ Email Me 👉 ✉️ **ateequr9898@gmail.com** For Collaboration/Project or Anyt
 # 📊 GitHub Stats:
 
 ![](https://streak-stats.demolab.com/?user=Ateeq1211&theme=dark&hide_border=false)<br/>
-
-[![](https://komarev.com/ghpvc/?username=Ateeq1211&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=technosnag&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
