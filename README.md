@@ -1,3 +1,16 @@
+# 💫 Hi 👋, I'm  Ateeq Ur Rehman
+**A passionate Software Engineer || QA Engineer ** 
+
+Email Me 👉 ✉️ **ateequr9898@gmail.com** For Collaboration/Project or Anything Else. 😊😊 
+
+- 🔭 **I’m currently working on: Software Development & QA Engineering
+- 🌱 **I’m currently learning: Modern Web Technologies and Advanced Testing Techniques
+
+
+- 💬 **Ask me about: Collaboration, Tech Support, Software Development, and QA
+- 📫 **How to reach me:** ateequr9898@gmail.com 
+
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me!   
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ateeq-ur-rehman-54830433b?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
