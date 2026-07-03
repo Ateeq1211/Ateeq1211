@@ -33,7 +33,6 @@ Email Me 👉 ✉️ **ateequr9898@gmail.com** For Collaboration/Project or Anyt
   
 </p>
 
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=technosnag&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
