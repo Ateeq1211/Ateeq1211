@@ -15,6 +15,8 @@ Email Me 👉 ✉️ **ateequr9898@gmail.com** For Collaboration/Project or Anyt
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ateeq-ur-rehman-54830433b?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
 
+![Profile Views](https://komarev.com/ghpvc/?username=Ateeq1211&color=blue&style=flat-square)  
+
 
 
 # 💻 Tech Stack:
@@ -23,6 +25,7 @@ Email Me 👉 ✉️ **ateequr9898@gmail.com** For Collaboration/Project or Anyt
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
 
 
 
