@@ -1,16 +1,55 @@
-# 💫 Hi 👋, I'm  Ateeq Ur Rehman
-**A passionate Software Engineer || QA Engineer ** 
+<div align="center">
 
-Email Me 👉 ✉️ **ateequr9898@gmail.com** For Collaboration/Project or Anything Else. 😊😊 
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Ateeq%20Ur%20Rehman&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20QA%20Engineer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
-- 🔭 **I’m currently working on: Software Development & QA Engineering
-- 🌱 **I’m currently learning: Modern Web Technologies and Advanced Testing Techniques
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=36BCF7&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Full-Stack+Development+%7C+MERN+%26+Next.js;Quality+Assurance+%26+Software+Testing;Clean+Code.+Reliable+Products." alt="Typing SVG" /></a>
 
+<br/>
 
-- 💬 **Ask me about: Collaboration, Tech Support, Software Development, and QA
-- 📫 **How to reach me:** ateequr9898@gmail.com 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ateeq-ur-rehman-54830433b)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ateequr9898@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ateeq1211)
 
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me!   
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+I'm a **Software Engineer** and **QA Engineer** focused on building clean, scalable web applications and making sure they work reliably in production.
+
+I work across the full stack, from responsive interfaces to APIs and databases, and I test what I build so it ships with quality. I enjoy collaborating with teams and clients to turn ideas into working products.
+
+</td>
+<td width="40%" valign="top">
+
+**🔭 Working on**
+Software Development & QA Engineering
+
+**🌱 Learning**
+Modern Web Technologies & Advanced Testing
+
+**💬 Ask me about**
+Collaboration, Tech Support, Development, and QA
+
+**📫 Contact**
+[ateequr9898@gmail.com](mailto:ateequr9898@gmail.com)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+| 🌐 Full-Stack Development | 🧪 QA & Testing | 🔌 REST APIs | 🤝 Collaboration |
+|:---:|:---:|:---:|:---:|
+| React, Next.js, Node.js | Manual & API testing | Express, NestJS | Clear communication |
+
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ateeq-ur-rehman-54830433b?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
