@@ -14,30 +14,31 @@
 
 ---
 
-## 👨‍💻 About Me
+
+##  About Me
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="62%" valign="top">
 
-I'm a **Software Engineer** and **QA Engineer** focused on building clean, scalable web applications and making sure they work reliably in production.
+### 🚀 Who I Am
 
-I work across the full stack, from responsive interfaces to APIs and databases, and I test what I build so it ships with quality. I enjoy collaborating with teams and clients to turn ideas into working products.
+I'm a **Software Engineer & QA Engineer** passionate about building modern, scalable, and reliable web applications.
+
+I specialize in full-stack development, creating responsive user interfaces, developing robust backend systems, and ensuring software quality through effective testing.
+
+I enjoy solving real-world problems, exploring new technologies, and collaborating with teams to transform ideas into high-quality digital products.
 
 </td>
-<td width="40%" valign="top">
+<td width="38%" valign="top">
 
-**🔭 Working on**
-Software Development & QA Engineering
+### 🎯 What I Do
 
-**🌱 Learning**
-Modern Web Technologies & Advanced Testing
-
-**💬 Ask me about**
-Collaboration, Tech Support, Development, and QA
-
-**📫 Contact**
-[ateequr9898@gmail.com](mailto:ateequr9898@gmail.com)
+- 💻 **Development:** Full-Stack Web Applications
+- 🧪 **Quality Assurance:** Manual & API Testing
+- 🌱 **Currently Learning:** Modern Web Technologies
+- 🤝 **Collaboration:** Teamwork & Problem Solving
+- 📩 **Contact:** [Email Me](mailto:ateequr9898@gmail.com)
 
 </td>
 </tr>
@@ -45,11 +46,13 @@ Collaboration, Tech Support, Development, and QA
 
 <div align="center">
 
-| 🌐 Full-Stack Development | 🧪 QA & Testing | 🔌 REST APIs | 🤝 Collaboration |
-|:---:|:---:|:---:|:---:|
-| React, Next.js, Node.js | Manual & API testing | Express, NestJS | Clear communication |
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&height=45&lines=Building+Modern+Web+Applications;Writing+Clean+%26+Scalable+Code;Ensuring+Quality+Through+Testing;Learning+%26+Growing+Every+Day" alt="Animated Expertise"/>
+</a>
 
 </div>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ateeq-ur-rehman-54830433b?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
