@@ -30,16 +30,16 @@ Email Me 👉 ✉️ **ateequr9898@gmail.com** For Collaboration/Project or Anyt
 
 
 ### 📈 GitHub Stats
+<div align="center">
 
-<p align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ateeq1211&show_icons=true&theme=tokyonight" />
-  
-</p>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ateeq1211&theme=tokyonight" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ateeq1211&theme=tokyonight" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=technosnag&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://streak-stats.demolab.com?user=Ateeq1211&theme=tokyonight&hide_border=true" />
+
+</div>
 
 
----
 
 ### 📫 Connect With Me
 
