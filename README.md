@@ -49,7 +49,6 @@ I enjoy solving real-world problems, exploring emerging technologies, and collab
 - 🌐 MERN Stack & Next.js
 - 🧪 Manual & API Testing
 - 🔍 Software Quality Assurance
-- ⚡ Backend Development
 - 🤝 Team Collaboration
 - 🌱 Continuous Learning
 
