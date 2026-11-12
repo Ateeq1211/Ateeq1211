@@ -69,29 +69,22 @@ I enjoy solving real-world problems, exploring emerging technologies, and collab
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=65&section=header&text=TECH%20STACK&fontSize=25&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
-### 💻 Languages
+<br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,cpp,php&theme=dark"/>
+### 💻 Languages & Frameworks
 
-### ⚛️ Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,php,react,nextjs,nodejs,express,tailwind&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite&theme=dark"/>
+### 🗄️ Database & Tools
 
-### ⚙️ Backend Development
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,git,github,gitlab,vscode,postman,docker&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma&theme=dark"/>
+### 🧪 QA & Design
 
-### 🗄️ Databases & Authentication
+<img src="https://skillicons.dev/icons?i=figma,ps,vercel,netlify&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,jwt&theme=dark"/>
+<br/>
 
-### 🧪 Testing & Development Tools
-
-<img src="https://skillicons.dev/icons?i=postman,docker,git,github,gitlab,vscode&theme=dark"/>
-
-### 🎨 Design & Deployment
-
-<img src="https://skillicons.dev/icons?i=figma,ps,vercel,netlify&theme=dark"/>
 
 </div>
 
@@ -99,39 +92,33 @@ I enjoy solving real-world problems, exploring emerging technologies, and collab
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=65&section=header&text=GITHUB%20STATISTICS&fontSize=25&fontColor=ffffff&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=50&section=header&text=GITHUB%20STATISTICS&fontSize=22&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
-<br/><br/>
+<br/>
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ateeq1211&theme=tokyonight"/>
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ateeq1211&theme=tokyonight"/>
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ateeq1211&theme=tokyonight"/>
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ateeq1211&theme=tokyonight"/>
 
-<br/><br/>
+<br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=Ateeq1211&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ateeq1211&bg_color=0d1117&color=36BCF7&line=2c5364&point=36BCF7&area=true&hide_border=true"/>
+<img width="60%" src="https://streak-stats.demolab.com?user=Ateeq1211&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&card_width=450"/>
 
 </div>
+
 
 ---
 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=65&section=header&text=CONTRIBUTION%20ACTIVITY&fontSize=24&fontColor=ffffff&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=50&section=header&text=CONTRIBUTION%20ACTIVITY&fontSize=22&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://raw.githubusercontent.com/Ateeq1211/Ateeq1211/output/snake.svg" alt="Contribution Snake Animation" width="100%"/>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Ateeq1211&label=PROFILE%20VIEWS&color=203a43&style=for-the-badge"/>
-
 </div>
+
 
 
 ---
